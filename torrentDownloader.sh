@@ -1,2 +1,2 @@
-cd /media/harddrive/tracker/torrents
-curl -o $2 $1
+cd /mnt/moviedrive/deluge/watch
+curl -o "$2.torrent" $1
